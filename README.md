@@ -40,7 +40,7 @@ An interactive GUI-based desktop application to **visualize popular sorting algo
 
 ### 📦 Installation
 
-git clone https://github.com/pritam-002/sorting-visualizer.git
+git clone 
 cd sorting-visualizer
 python -m venv .venv
 .\.venv\Scripts\activate     # On Windows
